@@ -1,6 +1,6 @@
 ---
 title: "A glimpse into my Go-To setup: Deploy a Promox CEPH HCI cluster"
-date: 2024-04-05 12:00:00 +/-TTTT
+date: 2024-04-24 12:00:00 +/-TTTT
 categories: [Insights, setup]
 tags: [proxmox, pfsense, ceph, hci]     # TAG names should always be lowercase
 author: matija
