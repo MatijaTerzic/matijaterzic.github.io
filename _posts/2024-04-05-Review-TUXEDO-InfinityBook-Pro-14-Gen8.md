@@ -32,11 +32,11 @@ So let's begin...
 
 ## What's in the box?
 
-![Box1](box1.webp)
-![Box2](box2.webp)
-![Box3](box3.webp)
-![laptop-closed](laptop-closed.webp)
-![laptop-open](laptop-open.webp)
+![Box1](/assets/img/Preview-Tuxedo-Laptop/box1.webp)
+![Box2](/assets/img/Preview-Tuxedo-Laptop/box2.webp)
+![Box3](/assets/img/Preview-Tuxedo-Laptop/box3.webp)
+![laptop-closed](/assets/img/Preview-Tuxedo-Laptop/laptop-closed.webp)
+![laptop-open](/assets/img/Preview-Tuxedo-Laptop/laptop-open.webp)
 
 ## First impression
 
@@ -57,7 +57,7 @@ On the left side:
 - Full size SD card reader
 - 2-in-1 audio (headphone + mic)
 
-![ports-left](ports-left.webp)
+![ports-left](/assets/img/Preview-Tuxedo-Laptop/ports-left.webp)
 
 On the right side:
 - Thunderbolt 4 (PCIe Gen3 4 Lanes) / USB-C (Connected to: iGPU DisplayPort 1.4a Power Delivery DC-In  DC-Out: 5V/3A)
@@ -65,11 +65,11 @@ On the right side:
 - HDMI 2.0b
 - DC-IN / power connection
 
-![ports-right](ports-right.webp)
+![ports-right](/assets/img/Preview-Tuxedo-Laptop/ports-right.webp)
 
 ## The Screen
 
-![laptop-screen](linux-mint.webp)
+![laptop-screen](/assets/img/Preview-Tuxedo-Laptop/linux-mint.webp)
 
 The screen on this laptop is truly magnificent, boasting an Omni Display 3K 14" LTPS TFT-LCD that combines a 16:10 aspect ratio with a 90Hz refresh rate for smooth, crisp visuals. With a maximum resolution of 2880x1800, the display brings unparalleled clarity and depth to every image. Additionally, its matte/non-glare finish significantly reduces reflections from light and sunlight, ensuring optimal viewing comfort under various lighting conditions.
 
@@ -81,7 +81,7 @@ Performance-wise, this laptop is a real beast! With my configuration, this lapto
 
 When opting for a different operating system, such as Linux Mint (What i am running), instead of the default TUXEDO OS, installing the 'TUXEDO Control Center' becomes indispensable. This powerful application is the key to unlocking the full potential of your device, providing you with comprehensive control over hardware settings and system performance. It allows for precise adjustments to power management, fan control, and system monitoring, ensuring that your laptop operates efficiently under any OS. The seamless integration and intuitive interface of the TUXEDO Control Center make it a must-have tool for optimizing your computing experience and maintaining the optimal balance between performance and energy consumption.
 
-![tuxedo-control-center](tuxedo-control-center.webp)
+![tuxedo-control-center](/assets/img/Preview-Tuxedo-Laptop/tuxedo-control-center.webp)
 
 ## Conclusion
 
