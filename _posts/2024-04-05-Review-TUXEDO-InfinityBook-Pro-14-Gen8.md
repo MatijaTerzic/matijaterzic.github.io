@@ -1,11 +1,11 @@
 ---
 title: TUXEDO InfinityBook Pro 14" - Gen8 (Review)
-#date: 2024-04-05 12:00:00 +/-TTTT
+date: 2024-04-05 12:00:00 +/-TTTT
 categories: [Review, Linux Laptop]
 tags: [laptop, linux]     # TAG names should always be lowercase
 author: matija
-img_path: /assets/img/Preview-Tuxedo-Laptop/
-image: Preview.webp
+#img_path: /assets/img/Preview-Tuxedo-Laptop/
+image: /assets/img/Preview-Tuxedo-Laptop/Preview.webp
 ---
 
 For me it was time to buy a new laptop. I wanted a Laptop that is 100% Linux compatible.
